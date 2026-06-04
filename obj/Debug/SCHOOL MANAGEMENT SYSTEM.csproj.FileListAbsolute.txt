@@ -1,0 +1,36 @@
+C:\Users\User\Desktop\SCHOOL MANAGAMENT SYSTEM - 1.0\SCHOOL MANAGEMENT SYSTEM\bin\Debug\SCHOOL MANAGEMENT SYSTEM.exe.config
+C:\Users\User\Desktop\SCHOOL MANAGAMENT SYSTEM - 1.0\SCHOOL MANAGEMENT SYSTEM\bin\Debug\SCHOOL MANAGEMENT SYSTEM.exe
+C:\Users\User\Desktop\SCHOOL MANAGAMENT SYSTEM - 1.0\SCHOOL MANAGEMENT SYSTEM\bin\Debug\SCHOOL MANAGEMENT SYSTEM.pdb
+C:\Users\User\Desktop\SCHOOL MANAGAMENT SYSTEM - 1.0\SCHOOL MANAGEMENT SYSTEM\obj\Debug\SCHOOL MANAGEMENT SYSTEM.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\SCHOOL MANAGAMENT SYSTEM - 1.0\SCHOOL MANAGEMENT SYSTEM\obj\Debug\SCHOOL_MANAGEMENT_SYSTEM.Properties.Resources.resources
+C:\Users\User\Desktop\SCHOOL MANAGAMENT SYSTEM - 1.0\SCHOOL MANAGEMENT SYSTEM\obj\Debug\SCHOOL MANAGEMENT SYSTEM.csproj.GenerateResource.cache
+C:\Users\User\Desktop\SCHOOL MANAGAMENT SYSTEM - 1.0\SCHOOL MANAGEMENT SYSTEM\obj\Debug\SCHOOL MANAGEMENT SYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SCHOOL MANAGAMENT SYSTEM - 1.0\SCHOOL MANAGEMENT SYSTEM\obj\Debug\SCHOOL MANAGEMENT SYSTEM.exe
+C:\Users\User\Desktop\SCHOOL MANAGAMENT SYSTEM - 1.0\SCHOOL MANAGEMENT SYSTEM\obj\Debug\SCHOOL MANAGEMENT SYSTEM.pdb
+C:\Users\User\Desktop\SCHOOL MANAGAMENT SYSTEM - 1.0\SCHOOL MANAGEMENT SYSTEM\obj\Debug\School_Management_System.Home.resources
+C:\Users\User\Desktop\SCHOOL MANAGAMENT SYSTEM - 1.0\SCHOOL MANAGEMENT SYSTEM\obj\Debug\SCHOOL_MANAGEMENT_SYSTEM.AdminDashboard.resources
+C:\Users\User\Desktop\SCHOOL MANAGAMENT SYSTEM - 1.0\SCHOOL MANAGEMENT SYSTEM\obj\Debug\SCHOOL_MANAGEMENT_SYSTEM.Login.resources
+C:\Users\User\Desktop\SCHOOL MANAGAMENT SYSTEM - 1.0\SCHOOL MANAGEMENT SYSTEM\obj\Debug\SCHOOL_MANAGEMENT_SYSTEM.StudentDashboard.resources
+C:\Users\User\Desktop\SCHOOL MANAGAMENT SYSTEM - 1.0\SCHOOL MANAGEMENT SYSTEM\obj\Debug\SCHOOL_MANAGEMENT_SYSTEM.TeacherDashboard.resources
+C:\Users\User\Desktop\SCHOOL MANAGAMENT SYSTEM - 1.0\SCHOOL MANAGEMENT SYSTEM\obj\Debug\SCHOOL_MANAGEMENT_SYSTEM.UC_StudentManager.resources
+C:\Users\User\Desktop\SCHOOL MANAGAMENT SYSTEM - 1.0\SCHOOL MANAGEMENT SYSTEM\obj\Debug\SCHOOL_MANAGEMENT_SYSTEM.UC_TeacherManager.resources
+C:\Users\User\Desktop\SCHOOL MANAGAMENT SYSTEM - 1.0\SCHOOL MANAGEMENT SYSTEM\obj\Debug\SCHOOL_MANAGEMENT_SYSTEM.UC_StudentAssignmentSubmission.resources
+C:\Users\User\Desktop\SCHOOL MANAGAMENT SYSTEM - 1.0\SCHOOL MANAGEMENT SYSTEM\obj\Debug\SCHOOL_MANAGEMENT_SYSTEM.Forgot_Reset_Pass.resources
+C:\Users\User\Desktop\Draft\Project to push in git\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\SCHOOL MANAGEMENT SYSTEM\bin\Debug\SCHOOL MANAGEMENT SYSTEM.exe.config
+C:\Users\User\Desktop\Draft\Project to push in git\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\SCHOOL MANAGEMENT SYSTEM\bin\Debug\SCHOOL MANAGEMENT SYSTEM.exe
+C:\Users\User\Desktop\Draft\Project to push in git\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\SCHOOL MANAGEMENT SYSTEM\bin\Debug\SCHOOL MANAGEMENT SYSTEM.pdb
+C:\Users\User\Desktop\Draft\Project to push in git\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\SCHOOL MANAGEMENT SYSTEM\obj\Debug\SCHOOL MANAGEMENT SYSTEM.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Draft\Project to push in git\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\SCHOOL MANAGEMENT SYSTEM\obj\Debug\SCHOOL_MANAGEMENT_SYSTEM.AdminDashboard.resources
+C:\Users\User\Desktop\Draft\Project to push in git\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\SCHOOL MANAGEMENT SYSTEM\obj\Debug\SCHOOL_MANAGEMENT_SYSTEM.Forgot_Reset_Pass.resources
+C:\Users\User\Desktop\Draft\Project to push in git\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\SCHOOL MANAGEMENT SYSTEM\obj\Debug\SCHOOL_MANAGEMENT_SYSTEM.Home.resources
+C:\Users\User\Desktop\Draft\Project to push in git\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\SCHOOL MANAGEMENT SYSTEM\obj\Debug\SCHOOL_MANAGEMENT_SYSTEM.Login.resources
+C:\Users\User\Desktop\Draft\Project to push in git\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\SCHOOL MANAGEMENT SYSTEM\obj\Debug\SCHOOL_MANAGEMENT_SYSTEM.Properties.Resources.resources
+C:\Users\User\Desktop\Draft\Project to push in git\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\SCHOOL MANAGEMENT SYSTEM\obj\Debug\SCHOOL_MANAGEMENT_SYSTEM.StudentDashboard.resources
+C:\Users\User\Desktop\Draft\Project to push in git\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\SCHOOL MANAGEMENT SYSTEM\obj\Debug\SCHOOL_MANAGEMENT_SYSTEM.TeacherDashboard.resources
+C:\Users\User\Desktop\Draft\Project to push in git\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\SCHOOL MANAGEMENT SYSTEM\obj\Debug\SCHOOL_MANAGEMENT_SYSTEM.UC_StudentAssignmentSubmission.resources
+C:\Users\User\Desktop\Draft\Project to push in git\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\SCHOOL MANAGEMENT SYSTEM\obj\Debug\SCHOOL_MANAGEMENT_SYSTEM.UC_StudentManager.resources
+C:\Users\User\Desktop\Draft\Project to push in git\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\SCHOOL MANAGEMENT SYSTEM\obj\Debug\SCHOOL_MANAGEMENT_SYSTEM.UC_TeacherManager.resources
+C:\Users\User\Desktop\Draft\Project to push in git\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\SCHOOL MANAGEMENT SYSTEM\obj\Debug\SCHOOL MANAGEMENT SYSTEM.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Draft\Project to push in git\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\SCHOOL MANAGEMENT SYSTEM\obj\Debug\SCHOOL MANAGEMENT SYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Draft\Project to push in git\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\SCHOOL MANAGEMENT SYSTEM\obj\Debug\SCHOOL MANAGEMENT SYSTEM.exe
+C:\Users\User\Desktop\Draft\Project to push in git\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\SCHOOL MANAGEMENT SYSTEM\obj\Debug\SCHOOL MANAGEMENT SYSTEM.pdb
