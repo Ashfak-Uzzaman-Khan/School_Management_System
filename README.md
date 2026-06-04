@@ -24,18 +24,18 @@ The application enforces strict business rules including **time-clash prevention
 
 ## ✨ Key Technical Highlights
 
-- 🔐 **Role-based Authentication** : Single login routes Admin (Role 1), Teacher (Role 2), and Student (Role 3) to their respective dashboards automatically
-- 🛡️ **SQL Injection Prevention** : All database operations use parameterized queries via ADO.NET (`SqlParameter[]`)
-- 🏗️ **Centralized Data Access Layer** : `DataAccess.cs` wraps all SQL operations (`ExecuteQuery`, `ExecuteQueryTable`, `ExecuteDMLQuery`) with overloaded parameterized variants
-- ⏰ **Time-Clash Detection** : Course scheduling and student registration both run conflict checks against existing schedules before committing
-- 📊 **Auto-calculated Academics** : CGPA calculated from Grade table; attendance percentage computed from Attendance table in real-time
-- 🧩 **Modular UserControl Architecture** : Each feature loaded dynamically into dashboard body panels, keeping UI clean and maintainable
+-  **Role-based Authentication** : Single login routes Admin (Role 1), Teacher (Role 2), and Student (Role 3) to their respective dashboards automatically
+-  **SQL Injection Prevention** : All database operations use parameterized queries via ADO.NET (`SqlParameter[]`)
+-  **Centralized Data Access Layer** : `DataAccess.cs` wraps all SQL operations (`ExecuteQuery`, `ExecuteQueryTable`, `ExecuteDMLQuery`) with overloaded parameterized variants
+-  **Time-Clash Detection** : Course scheduling and student registration both run conflict checks against existing schedules before committing
+-  **Auto-calculated Academics** : CGPA calculated from Grade table; attendance percentage computed from Attendance table in real-time
+-  **Modular UserControl Architecture** : Each feature loaded dynamically into dashboard body panels, keeping UI clean and maintainable
 
 ---
 
 ## 👥 User Roles & Features
 
-### 🔴 Admin
+###  Admin
 | Module | Capabilities |
 |---|---|
 | Dashboard | Live count of total Teachers, Students, Departments, and Courses |
@@ -48,7 +48,7 @@ The application enforces strict business rules including **time-clash prevention
 | Reviews Manager | View all teacher reviews and ratings; view average rating per teacher |
 | Profile | View and edit own personal information |
 
-### 🟡 Teacher
+###  Teacher
 | Module | Capabilities |
 |---|---|
 | Dashboard | Personalized welcome + weekly teaching schedule (day, course, time) |
@@ -58,7 +58,7 @@ The application enforces strict business rules including **time-clash prevention
 | Leave Request | Submit leave requests; view own request history with current status |
 | Profile | View and edit personal contact information |
 
-### 🟢 Student
+###  Student
 | Module | Capabilities |
 |---|---|
 | Dashboard | Personalized welcome + weekly class schedule (day, course, time) |
@@ -208,7 +208,7 @@ Use the following credentials to explore the system as each user role:
 ## 📸 Screenshots 
 
 > _Screen shots of the project pages._
-### 👤 Common Pages
+###  Common Pages
 
 | **Home** | **Log In** | **Forgot Password & Reset** |
 |:---:|:---:|:---:|
@@ -222,7 +222,7 @@ Use the following credentials to explore the system as each user role:
 
 ---
 
-### 🛡️ Admin Panel
+###  Admin Panel
 
 | **Dashboard** | **Course Manager** | **Teacher Manager** |
 |:---:|:---:|:---:|
@@ -241,7 +241,7 @@ Use the following credentials to explore the system as each user role:
 
 ---
 
-### 👨‍🏫 Teacher Panel
+###  Teacher Panel
 
 | **Dashboard** | **Attendance Manager** | **Grade Manager** |
 |:---:|:---:|:---:|
@@ -255,7 +255,7 @@ Use the following credentials to explore the system as each user role:
 
 ---
 
-### 👨‍🎓 Student Panel
+###  Student Panel
 
 | **Dashboard** | **Course Registration** | **Result View** |
 |:---:|:---:|:---:|
