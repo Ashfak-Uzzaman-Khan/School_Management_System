@@ -29,7 +29,6 @@ The application enforces strict business rules including **time-clash prevention
 - 🏗️ **Centralized Data Access Layer** : `DataAccess.cs` wraps all SQL operations (`ExecuteQuery`, `ExecuteQueryTable`, `ExecuteDMLQuery`) with overloaded parameterized variants
 - ⏰ **Time-Clash Detection** : Course scheduling and student registration both run conflict checks against existing schedules before committing
 - 📊 **Auto-calculated Academics** : CGPA calculated from Grade table; attendance percentage computed from Attendance table in real-time
-- 🔒 **Business Rule Enforcement** : Proper assignments handeling procedures, unique teacher-per-course validation, department-wise student profile orientation
 - 🧩 **Modular UserControl Architecture** : Each feature loaded dynamically into dashboard body panels, keeping UI clean and maintainable
 
 ---
