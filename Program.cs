@@ -11,7 +11,6 @@ namespace SCHOOL_MANAGEMENT_SYSTEM
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
 
-            // TEMP TEST DATA (because no login yet)
             string userName = "Admin";
 
             Application.Run(new Home());

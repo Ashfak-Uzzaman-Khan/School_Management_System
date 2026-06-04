@@ -17,9 +17,9 @@ namespace SCHOOL_MANAGEMENT_SYSTEM
 
        
 
-        // ════════════════════════════════════════════════════════
+        
         //  NAV BUTTON CLICKS
-        // ════════════════════════════════════════════════════════
+        
 
         private void btn_Apply_Click(object sender, EventArgs e)
         {
@@ -60,12 +60,11 @@ namespace SCHOOL_MANAGEMENT_SYSTEM
         {
             MessageBox.Show("About Us page coming soon!", "About Us",
                 MessageBoxButtons.OK, MessageBoxIcon.Information);
-            // TODO: new AboutUs().Show(); this.Hide();
         }
 
-        // ════════════════════════════════════════════════════════
+        // 
         //  HOVER EFFECTS
-        // ════════════════════════════════════════════════════════
+        // 
 
         private void NavBtn_MouseEnter(object sender, EventArgs e)
         {
@@ -113,9 +112,9 @@ namespace SCHOOL_MANAGEMENT_SYSTEM
             if (p != null) p.BackColor = Color.White;
         }
 
-        // ════════════════════════════════════════════════════════
+        // 
         //  HERO CTA BUTTONS
-        // ════════════════════════════════════════════════════════
+        // 
 
         private void btn_heroApply_Click(object sender, EventArgs e)
         {

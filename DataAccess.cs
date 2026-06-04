@@ -11,7 +11,7 @@ namespace SCHOOL_MANAGEMENT_SYSTEM
         private SqlDataAdapter Sda;
         private DataSet Ds;
 
-        // ─── Constructor — Database এর সাথে সংযোগ ───
+        //  Constructor 
         public DataAccess()
         {
             this.Sqlcon = new SqlConnection(
@@ -22,8 +22,7 @@ namespace SCHOOL_MANAGEMENT_SYSTEM
             this.Sqlcon.Open();
         }
 
-        // ─── SELECT → DataSet ফেরত দেয় ───
-        // ব্যবহার: DataGridView এ data দেখাতে
+        //  SELECT 
         public DataSet ExecuteQuery(string sql)
         {
             this.Sqlcom = new SqlCommand(sql, this.Sqlcon);
@@ -35,8 +34,7 @@ namespace SCHOOL_MANAGEMENT_SYSTEM
 
 
 
-        // ─── SELECT → DataTable ফেরত দেয় ───
-        // ব্যবহার: একটা টেবিলের data দরকার হলে
+        //  SELECT 
         public DataTable ExecuteQueryTable(string sql)
         {
             this.Sqlcom = new SqlCommand(sql, this.Sqlcon);
@@ -46,9 +44,8 @@ namespace SCHOOL_MANAGEMENT_SYSTEM
             return this.Ds.Tables[0];
         }
 
-        // ─── INSERT / UPDATE / DELETE ───
-        // ব্যবহার: data যোগ, পরিবর্তন, মুছতে
-        // return: 1 = সফল, 0 = ব্যর্থ
+        //  INSERT / UPDATE / DELETE 
+    
         public int ExecuteDMLQuery(string sql)
         {
             this.Sqlcom = new SqlCommand(sql, this.Sqlcon);
@@ -56,8 +53,7 @@ namespace SCHOOL_MANAGEMENT_SYSTEM
             return rows;
         }
 
-        // ─── SELECT with Parameters (SQL Injection থেকে সুরক্ষা) ───
-        // ব্যবহার: Login বা Search এর মতো sensitive query তে
+        //  SELECT with Parameters
         public DataTable ExecuteQueryTable(string sql, SqlParameter[] parameters)
         {
             this.Sqlcom = new SqlCommand(sql, this.Sqlcon);
@@ -70,8 +66,8 @@ namespace SCHOOL_MANAGEMENT_SYSTEM
 
 
 
-        // ─── INSERT/UPDATE/DELETE with Parameters ───
-        // ব্যবহার: secure ভাবে data লেখার জন্য
+        //  INSERT/UPDATE/DELETE with Parameters 
+       
         public int ExecuteDMLQuery(string sql, SqlParameter[] parameters)
         {
             this.Sqlcom = new SqlCommand(sql, this.Sqlcon);

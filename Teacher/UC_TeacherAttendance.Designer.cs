@@ -35,7 +35,6 @@
             this.btn_Save = new System.Windows.Forms.Button();
             this.btn_Clear = new System.Windows.Forms.Button();
 
-            // ── Suspend ───────────────────────────────────────────
             this.pnl_pageHeader.SuspendLayout();
             this.pnl_searchBar.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgv_Attendance)).BeginInit();
@@ -43,7 +42,6 @@
             this.pnl_editHeader.SuspendLayout();
             this.SuspendLayout();
 
-            // ═══ COLOURS ══════════════════════════════════════════
             System.Drawing.Color primary = System.Drawing.Color.FromArgb(30, 58, 138);
             System.Drawing.Color pageBg = System.Drawing.Color.FromArgb(241, 245, 249);
             System.Drawing.Color cardBg = System.Drawing.Color.White;
@@ -53,7 +51,6 @@
             System.Drawing.Color neutral = System.Drawing.Color.FromArgb(100, 116, 139);
             System.Drawing.Color labelClr = System.Drawing.Color.FromArgb(51, 65, 85);
 
-            // ═══ PAGE HEADER STRIP ═══════════════════════════════
             this.pnl_pageHeader.BackColor = stripBg;
             this.pnl_pageHeader.Controls.Add(this.lbl_pageTitle);
             this.pnl_pageHeader.Dock = System.Windows.Forms.DockStyle.Top;
@@ -73,7 +70,6 @@
             this.lbl_pageTitle.Text = "  📋  Attendance Manager";
             this.lbl_pageTitle.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
 
-            // ═══ SEARCH BAR ══════════════════════════════════════
             this.pnl_searchBar.Controls.Add(this.lbl_search);
             this.pnl_searchBar.Controls.Add(this.txt_Search);
             this.pnl_searchBar.Controls.Add(this.btn_Search);
@@ -113,7 +109,6 @@
             this.btn_Search.UseVisualStyleBackColor = false;
             this.btn_Search.Click += new System.EventHandler(this.btn_Search_Click);
 
-            // ═══ DATA GRID VIEW ═════════════════════════════════
             this.dgv_Attendance.BackgroundColor = System.Drawing.Color.White;
             this.dgv_Attendance.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.dgv_Attendance.CellBorderStyle = System.Windows.Forms.DataGridViewCellBorderStyle.SingleHorizontal;
@@ -131,7 +126,6 @@
             this.dgv_Attendance.TabIndex = 2;
             this.dgv_Attendance.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgv_Attendance_CellClick);
 
-            // ═══ EDIT CARD ══════════════════════════════════════
             this.pnl_editCard.BackColor = cardBg;
             this.pnl_editCard.Controls.Add(this.pnl_editHeader);
             this.pnl_editCard.Controls.Add(this.lbl_date);
@@ -229,7 +223,6 @@
             this.btn_Clear.UseVisualStyleBackColor = false;
             this.btn_Clear.Click += new System.EventHandler(this.btn_Clear_Click);
 
-            // ═══ USER CONTROL ═══════════════════════════════════
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = pageBg;
@@ -242,7 +235,6 @@
             this.Size = new System.Drawing.Size(740, 568);
             this.Load += new System.EventHandler(this.UC_TeacherAttendance_Load);
 
-            // ── Resume ────────────────────────────────────────────
             this.pnl_pageHeader.ResumeLayout(false);
             this.pnl_searchBar.ResumeLayout(false);
             this.pnl_searchBar.PerformLayout();

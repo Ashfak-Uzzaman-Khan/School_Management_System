@@ -564,7 +564,7 @@
 
         #endregion
 
-        // ── Field declarations ────────────────────────────────────
+        // Field declarations 
         private System.Windows.Forms.Panel pnl_navbar;
         private System.Windows.Forms.Label lbl_projectName;
         private System.Windows.Forms.Panel pnl_navButtons;
