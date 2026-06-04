@@ -198,13 +198,13 @@ Use the following credentials to explore the system as each user role:
 
 > _Use case diagram of the project._
 <img width="752" height="720" alt="image004" src="https://github.com/user-attachments/assets/c66193d2-84dc-4568-acc7-a9fd408f0ea2" />
----
+
 
 ## 📸 ER Diagram 
 
 > _ER diagram of the project._
 <img width="1897" height="877" alt="ER" src="https://github.com/user-attachments/assets/d26205f5-494b-4f75-9fb7-84850ec99fc8" />
----
+
 
 
 ### 👤 Common Pages
