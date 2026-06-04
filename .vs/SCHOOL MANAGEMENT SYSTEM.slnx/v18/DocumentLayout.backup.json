@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|c:\\users\\user\\desktop\\draft\\project to push in git\\school managament system - 1.0\\school management system\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|c:\\users\\user\\desktop\\draft\\project to push in git\\school managament system - 1.0\\school management system\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -447,8 +447,7 @@
               "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\Login.cs [Design]",
               "RelativeToolTip": "Login.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-17T16:10:56.327Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-05-17T16:10:56.327Z"
             },
             {
               "$type": "Document",
@@ -1243,8 +1242,7 @@
               "RelativeToolTip": "Home.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQCAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-17T17:00:04.426Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-17T17:00:04.426Z"
             },
             {
               "$type": "Document",
@@ -1398,8 +1396,7 @@
               "RelativeToolTip": "Home.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-17T17:00:09.151Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-17T17:00:09.151Z"
             },
             {
               "$type": "Document",
