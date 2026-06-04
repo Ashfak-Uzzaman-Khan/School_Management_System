@@ -203,14 +203,9 @@ Use the following credentials to explore the system as each user role:
 ## 📸 ER Diagram 
 
 > _ER diagram of the project._
-<img width="818" height="789" alt="image008" src="https://github.com/user-attachments/assets/04aefe8c-07b6-480b-b832-15ad9a23ffd7" />
+<img width="1897" height="877" alt="ER" src="https://github.com/user-attachments/assets/d26205f5-494b-4f75-9fb7-84850ec99fc8" />
 ---
 
-## 📸 Screenshots
-
-> _Screenshots of the project pages._
-
----
 
 ### 👤 Common Pages
 
