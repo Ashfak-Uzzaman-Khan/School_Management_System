@@ -1,4 +1,3 @@
-<img width="751" height="523" alt="image024" src="https://github.com/user-attachments/assets/a8212525-32d1-4f06-805c-7f459d1e8abb" /><h1 align="center">🏫 School Management System</h1>
 
 <p align="center">
   A multi-role C# .NET desktop application for managing the complete academic and administrative operations of an educational institution, backed by a structured SQL Server relational database.
@@ -200,423 +199,71 @@ Use the following credentials to explore the system as each user role:
 
 > _Screenshots of the project pages._
 
-**User: Common User**
+---
 
-Fig: Home
+### 👤 Common Pages
 
-<img width="1373" height="1002" alt="home" src="https://github.com/user-attachments/assets/a60206fe-529d-47d2-9276-ec4d135e313c" />
-
-
-
-
-
-
-Fig: Teacher Application
-
- 
-<img width="753" height="554" alt="image016" src="https://github.com/user-attachments/assets/9853d1fe-cad2-4d3a-bbf1-4cecf8d82cd3" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Fig: Student Enrollment
-
-
- 
-
-
-
-
-
-<img width="752" height="562" alt="image018" src="https://github.com/user-attachments/assets/1a45dbf4-9452-46dc-a6a2-3dd6c377f0d7" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Fig: Log In
-
- 
-
-
-
-
-
-
-
-
-
-<img width="753" height="580" alt="image020" src="https://github.com/user-attachments/assets/d1578424-f9f3-4f80-b061-2e1e51064b45" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Fig: Forgot password & Reset
-
- 
-
-
-
-
-
-
-
-
-<img width="753" height="557" alt="image022" src="https://github.com/user-attachments/assets/8ad6ad46-fde4-49f8-bb47-946359e134c9" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**User: Admin**
-
-Fig: admin dashboard
-
-
- 
-
-
-<img width="751" height="523" alt="image024" src="https://github.com/user-attachments/assets/e59e6f63-caff-4b13-83f6-737816ff7baa" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Fig: admin course manager
-
- 
-
-
-
-
-
-
-<img width="751" height="520" alt="image026" src="https://github.com/user-attachments/assets/2bc55e0d-5109-4440-8996-4ad14dafab83" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Fig: admin teacher manager
-
-
- 
-<img width="752" height="508" alt="image028" src="https://github.com/user-attachments/assets/86d62ed2-15cf-4a74-8cf2-83b12ef29bc1" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Fig: admin student manager
-
- 
-<img width="751" height="511" alt="image030" src="https://github.com/user-attachments/assets/b9c67ac2-5ec5-49c9-9d00-a7477963349c" />
-
-
-
-Fig: admin payment manager
-
- <img width="622" height="427" alt="image032" src="https://github.com/user-attachments/assets/60611a89-922c-4e3a-b598-5fcfc46a03d0" />
-
-
-
-Fig: admin department manager
-
-
-<img width="752" height="529" alt="image034" src="https://github.com/user-attachments/assets/342e6a6c-2332-4b43-8862-b89b22399b3b" />
-
-
-
-Fig: admin teacher review manager
-
-
-<img width="748" height="397" alt="image036" src="https://github.com/user-attachments/assets/dc51d490-1ab1-44f3-9047-b3143982d5e9" />
-
- 
-
-Fig: admin teacher leave request manager
- 
-
-
-
-
-
-
-
-
-<img width="752" height="508" alt="image038" src="https://github.com/user-attachments/assets/4c94299a-c554-4e2a-be9c-3017a6f6feef" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**User: Teacher**
-
-Fig: teacher dashboard
-
- <img width="751" height="525" alt="image040" src="https://github.com/user-attachments/assets/777d73e9-564a-454f-b422-f9ccc5a0a72f" />
-
-
-
-
-Fig: teacher attendance manager  
-<img width="751" height="529" alt="image042" src="https://github.com/user-attachments/assets/7bba2fa5-db83-4b50-ac6e-acbf4f6af956" />
-
-
-
-
-Fig: teacher grade manager
-<img width="752" height="517" alt="image044" src="https://github.com/user-attachments/assets/24457a30-77ef-4e99-96f4-7fd90ed1b2e7" />
-
-
- 
-Fig: teahcer assignment manager
-
- <img width="751" height="520" alt="image046" src="https://github.com/user-attachments/assets/6c8afb58-454e-4afe-a0f2-eafdcb132154" />
-
-
-Fig: teahcer leave  request
-<img width="751" height="521" alt="image048" src="https://github.com/user-attachments/assets/3e44ad89-12e5-42af-9a53-66d272fc72d6" />
-
- 
-
-Fig: teahcer profile setting manager
-
- 
-<img width="751" height="519" alt="image050" src="https://github.com/user-attachments/assets/b8b3c71a-3077-4c49-af87-aafcb46a989f" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-User: Student**
-
-Fig: student dashboard
-<img width="751" height="535" alt="image052" src="https://github.com/user-attachments/assets/0f27774c-bb8d-4f8d-a9cb-3645dff504b9" />
-
- 
-
-
-Fig: student course registration
- 
-<img width="728" height="365" alt="image054" src="https://github.com/user-attachments/assets/420453dc-f01e-43dc-86da-672505a4ce98" />
-
-
-
-
-Fig: student result view
- 
-
-<img width="751" height="521" alt="image056" src="https://github.com/user-attachments/assets/b323f799-a8c9-4851-ac07-725f97b3b706" />
-
-
-
-Fig: student payment manager
-
-<img width="718" height="396" alt="image058" src="https://github.com/user-attachments/assets/e283a562-7532-48e8-b3b9-a0cd303536bd" />
-
- 
-
-
-
-
-
-Fig: student assignment submission
-<img width="752" height="522" alt="image060" src="https://github.com/user-attachments/assets/bf6dc118-784a-4ac1-9bb4-fc26d23cdb60" />
-
- 
-
-
-Fig: Student attendence view
-<img width="727" height="420" alt="image062" src="https://github.com/user-attachments/assets/19700890-0429-4ab9-b493-47ef0ece7234" />
-
- 
-Fig: student teacher review manager
-
-<img width="751" height="528" alt="image064" src="https://github.com/user-attachments/assets/f41a73c3-8cdd-4385-a7a9-7bb04ee1edf9" />
-
- 
-
-Fig: student profile setting manager
-<img width="661" height="467" alt="image066" src="https://github.com/user-attachments/assets/d8ebbdf7-9f75-4e47-a650-87498dc28485" />
-
-
- 
-
-<!-- 
-### Common Pages
-| Home | Login | Forgot Password |
+| Home | Log In | Forgot Password & Reset |
 |:---:|:---:|:---:|
-| ![Home]() | ![Login]() | ![Forgot]() |
+| <img width="400" alt="home" src="https://github.com/user-attachments/assets/a60206fe-529d-47d2-9276-ec4d135e313c" /> | <img width="400" alt="login" src="https://github.com/user-attachments/assets/d1578424-f9f3-4f80-b061-2e1e51064b45" /> | <img width="400" alt="forgot-password" src="https://github.com/user-attachments/assets/8ad6ad46-fde4-49f8-bb47-946359e134c9" /> |
+| **Home** | **Log In** | **Forgot Password & Reset** |
 
-### Admin Panel
-| Dashboard | Teacher Manager | Student Manager |
-|:---:|:---:|:---:|
-| ![Admin Dashboard]() | ![Teacher Manager]() | ![Student Manager]() |
-
-| Course Manager | Department Manager | Payment Manager |
-|:---:|:---:|:---:|
-| ![Course Manager]() | ![Department Manager]() | ![Payment Manager]() |
-
-| Leave Request Manager | Reviews Manager | Admin Profile |
-|:---:|:---:|:---:|
-| ![Leave Request]() | ![Reviews]() | ![Admin Profile]() |
-
-### Teacher Panel
-| Dashboard | Grade Manager | Attendance Manager |
-|:---:|:---:|:---:|
-| ![Teacher Dashboard]() | ![Grade Manager]() | ![Attendance]() |
-
-| Assignment Manager | Leave Request | Teacher Profile |
-|:---:|:---:|:---:|
-| ![Assignment Manager]() | ![Leave Request]() | ![Teacher Profile]() |
-
-### Student Panel
-| Dashboard | Course Registration | Results |
-|:---:|:---:|:---:|
-| ![Student Dashboard]() | ![Course Registration]() | ![Results]() |
-
-| Payments | Assignment Submission | Attendance |
-|:---:|:---:|:---:|
-| ![Payments]() | ![Assignments]() | ![Attendance]() |
-
-| Teacher Review | Student Profile |
+| Teacher Application | Student Enrollment |
 |:---:|:---:|
-| ![Teacher Review]() | ![Student Profile]() |
--->
+| <img width="400" alt="teacher-application" src="https://github.com/user-attachments/assets/9853d1fe-cad2-4d3a-bbf1-4cecf8d82cd3" /> | <img width="400" alt="student-enrollment" src="https://github.com/user-attachments/assets/1a45dbf4-9452-46dc-a6a2-3dd6c377f0d7" /> |
+| **Teacher Application** | **Student Enrollment** |
+
+---
+
+### 🛡️ Admin Panel
+
+| Dashboard | Course Manager | Teacher Manager |
+|:---:|:---:|:---:|
+| <img width="400" alt="admin-dashboard" src="https://github.com/user-attachments/assets/e59e6f63-caff-4b13-83f6-737816ff7baa" /> | <img width="400" alt="admin-course-manager" src="https://github.com/user-attachments/assets/2bc55e0d-5109-4440-8996-4ad14dafab83" /> | <img width="400" alt="admin-teacher-manager" src="https://github.com/user-attachments/assets/86d62ed2-15cf-4a74-8cf2-83b12ef29bc1" /> |
+| **Dashboard** | **Course Manager** | **Teacher Manager** |
+
+| Student Manager | Payment Manager | Department Manager |
+|:---:|:---:|:---:|
+| <img width="400" alt="admin-student-manager" src="https://github.com/user-attachments/assets/b9c67ac2-5ec5-49c9-9d00-a7477963349c" /> | <img width="400" alt="admin-payment-manager" src="https://github.com/user-attachments/assets/60611a89-922c-4e3a-b598-5fcfc46a03d0" /> | <img width="400" alt="admin-department-manager" src="https://github.com/user-attachments/assets/342e6a6c-2332-4b43-8862-b89b22399b3b" /> |
+| **Student Manager** | **Payment Manager** | **Department Manager** |
+
+| Teacher Review Manager | Leave Request Manager |
+|:---:|:---:|
+| <img width="400" alt="admin-review-manager" src="https://github.com/user-attachments/assets/dc51d490-1ab1-44f3-9047-b3143982d5e9" /> | <img width="400" alt="admin-leave-request" src="https://github.com/user-attachments/assets/4c94299a-c554-4e2a-be9c-3017a6f6feef" /> |
+| **Teacher Review Manager** | **Leave Request Manager** |
+
+---
+
+### 👨‍🏫 Teacher Panel
+
+| Dashboard | Attendance Manager | Grade Manager |
+|:---:|:---:|:---:|
+| <img width="400" alt="teacher-dashboard" src="https://github.com/user-attachments/assets/777d73e9-564a-454f-b422-f9ccc5a0a72f" /> | <img width="400" alt="teacher-attendance" src="https://github.com/user-attachments/assets/7bba2fa5-db83-4b50-ac6e-acbf4f6af956" /> | <img width="400" alt="teacher-grade-manager" src="https://github.com/user-attachments/assets/24457a30-77ef-4e99-96f4-7fd90ed1b2e7" /> |
+| **Dashboard** | **Attendance Manager** | **Grade Manager** |
+
+| Assignment Manager | Leave Request | Profile Settings |
+|:---:|:---:|:---:|
+| <img width="400" alt="teacher-assignment-manager" src="https://github.com/user-attachments/assets/6c8afb58-454e-4afe-a0f2-eafdcb132154" /> | <img width="400" alt="teacher-leave-request" src="https://github.com/user-attachments/assets/3e44ad89-12e5-42af-9a53-66d272fc72d6" /> | <img width="400" alt="teacher-profile" src="https://github.com/user-attachments/assets/b8b3c71a-3077-4c49-af87-aafcb46a989f" /> |
+| **Assignment Manager** | **Leave Request** | **Profile Settings** |
+
+---
+
+### 👨‍🎓 Student Panel
+
+| Dashboard | Course Registration | Result View |
+|:---:|:---:|:---:|
+| <img width="400" alt="student-dashboard" src="https://github.com/user-attachments/assets/0f27774c-bb8d-4f8d-a9cb-3645dff504b9" /> | <img width="400" alt="student-course-registration" src="https://github.com/user-attachments/assets/420453dc-f01e-43dc-86da-672505a4ce98" /> | <img width="400" alt="student-result" src="https://github.com/user-attachments/assets/b323f799-a8c9-4851-ac07-725f97b3b706" /> |
+| **Dashboard** | **Course Registration** | **Result View** |
+
+| Payment Manager | Assignment Submission | Attendance View |
+|:---:|:---:|:---:|
+| <img width="400" alt="student-payment" src="https://github.com/user-attachments/assets/e283a562-7532-48e8-b3b9-a0cd303536bd" /> | <img width="400" alt="student-assignment" src="https://github.com/user-attachments/assets/bf6dc118-784a-4ac1-9bb4-fc26d23cdb60" /> | <img width="400" alt="student-attendance" src="https://github.com/user-attachments/assets/19700890-0429-4ab9-b493-47ef0ece7234" /> |
+| **Payment Manager** | **Assignment Submission** | **Attendance View** |
+
+| Teacher Review | Profile Settings |
+|:---:|:---:|
+| <img width="400" alt="student-teacher-review" src="https://github.com/user-attachments/assets/f41a73c3-8cdd-4385-a7a9-7bb04ee1edf9" /> | <img width="400" alt="student-profile" src="https://github.com/user-attachments/assets/d8ebbdf7-9f75-4e47-a650-87498dc28485" /> |
+| **Teacher Review** | **Profile Settings** |
 
 ---
 
