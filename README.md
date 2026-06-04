@@ -206,7 +206,9 @@ Use the following credentials to explore the system as each user role:
 <img width="1897" height="877" alt="ER" src="https://github.com/user-attachments/assets/d26205f5-494b-4f75-9fb7-84850ec99fc8" />
 
 
+## 📸 Screenshots 
 
+> _Screen shots of the project pages._
 ### 👤 Common Pages
 
 | **Home** | **Log In** | **Forgot Password & Reset** |
