@@ -1,3 +1,5 @@
+<h1 align="center">School Management System</h1>
+
 
 <p align="center">
   A multi-role C# .NET desktop application for managing the complete academic and administrative operations of an educational institution, backed by a structured SQL Server relational database.
