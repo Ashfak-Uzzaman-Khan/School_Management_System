@@ -24,6 +24,7 @@
             this.btn_Login = new System.Windows.Forms.Button();
             this.pnl_headerDivider = new System.Windows.Forms.Panel();
             this.pnl_hero = new System.Windows.Forms.Panel();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.pnl_heroContent = new System.Windows.Forms.Panel();
             this.lbl_heroTag = new System.Windows.Forms.Label();
             this.lbl_heroTitle = new System.Windows.Forms.Label();
@@ -51,10 +52,11 @@
             this.lbl_featuresTitle = new System.Windows.Forms.Label();
             this.pnl_footer = new System.Windows.Forms.Panel();
             this.lbl_footerText = new System.Windows.Forms.Label();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.btn_heroLearn = new System.Windows.Forms.Button();
             this.pnl_navbar.SuspendLayout();
             this.pnl_navButtons.SuspendLayout();
             this.pnl_hero.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.pnl_heroContent.SuspendLayout();
             this.pnl_features.SuspendLayout();
             this.pnl_featRow.SuspendLayout();
@@ -63,7 +65,6 @@
             this.pnl_feat3.SuspendLayout();
             this.pnl_feat4.SuspendLayout();
             this.pnl_footer.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // pnl_navbar
@@ -169,6 +170,7 @@
             this.pnl_hero.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.pnl_hero.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(30)))), ((int)(((byte)(58)))), ((int)(((byte)(138)))));
+            this.pnl_hero.Controls.Add(this.btn_heroLearn);
             this.pnl_hero.Controls.Add(this.pictureBox1);
             this.pnl_hero.Controls.Add(this.pnl_heroContent);
             this.pnl_hero.Controls.Add(this.btn_heroApply);
@@ -176,6 +178,16 @@
             this.pnl_hero.Name = "pnl_hero";
             this.pnl_hero.Size = new System.Drawing.Size(1100, 313);
             this.pnl_hero.TabIndex = 1;
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
+            this.pictureBox1.Location = new System.Drawing.Point(730, -7);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(350, 350);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox1.TabIndex = 4;
+            this.pictureBox1.TabStop = false;
             // 
             // pnl_heroContent
             // 
@@ -501,15 +513,21 @@
     "ME";
             this.lbl_footerText.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // pictureBox1
+            // btn_heroLearn
             // 
-            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(730, -7);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(350, 350);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox1.TabIndex = 4;
-            this.pictureBox1.TabStop = false;
+            this.btn_heroLearn.BackColor = System.Drawing.Color.Transparent;
+            this.btn_heroLearn.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btn_heroLearn.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(147)))), ((int)(((byte)(197)))), ((int)(((byte)(253)))));
+            this.btn_heroLearn.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(29)))), ((int)(((byte)(78)))), ((int)(((byte)(216)))));
+            this.btn_heroLearn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_heroLearn.Font = new System.Drawing.Font("Segoe UI", 9.5F, System.Drawing.FontStyle.Bold);
+            this.btn_heroLearn.ForeColor = System.Drawing.Color.White;
+            this.btn_heroLearn.Location = new System.Drawing.Point(216, 235);
+            this.btn_heroLearn.Name = "btn_heroLearn";
+            this.btn_heroLearn.Size = new System.Drawing.Size(140, 38);
+            this.btn_heroLearn.TabIndex = 5;
+            this.btn_heroLearn.Text = "Learn More";
+            this.btn_heroLearn.UseVisualStyleBackColor = false;
             // 
             // Home
             // 
@@ -531,6 +549,7 @@
             this.pnl_navbar.ResumeLayout(false);
             this.pnl_navButtons.ResumeLayout(false);
             this.pnl_hero.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.pnl_heroContent.ResumeLayout(false);
             this.pnl_features.ResumeLayout(false);
             this.pnl_featRow.ResumeLayout(false);
@@ -539,7 +558,6 @@
             this.pnl_feat3.ResumeLayout(false);
             this.pnl_feat4.ResumeLayout(false);
             this.pnl_footer.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -583,5 +601,6 @@
         private System.Windows.Forms.Panel pnl_footer;
         private System.Windows.Forms.Label lbl_footerText;
         private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.Button btn_heroLearn;
     }
 }

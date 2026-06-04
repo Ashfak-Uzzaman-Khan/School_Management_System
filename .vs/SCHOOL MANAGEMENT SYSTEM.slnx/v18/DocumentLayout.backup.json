@@ -1,357 +1,109 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|c:\\users\\user\\desktop\\draft\\project to push in git\\school managament system - 1.0 - c\\school management system\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\apply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:apply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\studentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:studentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\teacherdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:teacherdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|c:\\users\\user\\desktop\\draft\\project to push in git\\school managament system - 1.0\\school management system\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\forgot_reset_pass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:forgot_reset_pass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\uc_studentassignmentsubmission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:uc_studentassignmentsubmission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\uc_adminleaverequests.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:uc_adminleaverequests.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\uc_adminleaverequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:uc_adminleaverequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\uc_teachermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:uc_teachermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\uc_studentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:uc_studentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\uc_coursemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:uc_coursemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\uc_adminprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:uc_adminprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\uc_adminprofile.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:uc_adminprofile.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\uc_teachermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:uc_teachermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\Login.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:Login.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\uc_teacherprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:uc_teacherprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\uc_teacherleaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:uc_teacherleaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\uc_teachergrademanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:uc_teachergrademanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\uc_teacherattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:uc_teacherattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\uc_teacherassignmentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:uc_teacherassignmentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\uc_studentteacherreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:uc_studentteacherreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\uc_studentresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:uc_studentresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\uc_studentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:uc_studentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\uc_studentpayments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:uc_studentpayments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\uc_studentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:uc_studentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\uc_studentcourseregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:uc_studentcourseregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\uc_studentattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:uc_studentattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\uc_studentassignmentsubmission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:uc_studentassignmentsubmission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\uc_departmentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:uc_departmentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\uc_coursemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:uc_coursemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\uc_adminreviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:uc_adminreviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\uc_adminprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:uc_adminprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\uc_adminpayments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:uc_adminpayments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\uc_adminleaverequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:uc_adminleaverequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\DataAccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:DataAccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\dminprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:dminprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\uc_studentcourseregistration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:uc_studentcourseregistration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\uc_studentcourseregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:uc_studentcourseregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\uc_adminpayments.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:uc_adminpayments.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\uc_adminpayments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:uc_adminpayments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\studentdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:studentdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\studentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\studentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:studentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\teacherdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\studentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:studentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\studentdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:studentdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\apply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:apply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\teacherdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:teacherdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\forgot_reset_pass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:forgot_reset_pass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\Login.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:Login.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\DataAccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:DataAccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\teacherdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:teacherdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\teacherdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\teacherdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:teacherdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\admindashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\admindashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:admindashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\uc_studentprofile.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:uc_studentprofile.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\uc_studentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:uc_studentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\uc_teacherprofile.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:uc_teacherprofile.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\uc_teacherprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:uc_teacherprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\teacherdashboard.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\teacherdashboard.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
       "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:teacherdashboard.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\uc_teachergrademanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:uc_teachergrademanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\uc_teacherattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:uc_teacherattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\uc_teacherattendance.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:uc_teacherattendance.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\uc_teachergrademanager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:uc_teachergrademanager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\uc_studentassignmentsubmission.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:uc_studentassignmentsubmission.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\uc_studentpayments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:uc_studentpayments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\uc_studentattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:uc_studentattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\uc_studentresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:uc_studentresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\uc_studentattendance.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:uc_studentattendance.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\uc_studentresults.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:uc_studentresults.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\uc_teachermanager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:uc_teachermanager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\uc_teachermanager.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:uc_teachermanager.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\uc_adminreviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:uc_adminreviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\uc_departmentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:uc_departmentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\uc_coursemanager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:uc_coursemanager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\uc_teacherassignmentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:uc_teacherassignmentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\uc_teacherassignmentmanager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:uc_teacherassignmentmanager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\Home.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\Home.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:Home.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\uc_studentmanager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:uc_studentmanager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\uc_studentpayments.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:uc_studentpayments.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\uc_studentteacherreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:uc_studentteacherreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\uc_studentteacherreview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:uc_studentteacherreview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\uc_adminreviews.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:uc_adminreviews.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\uc_teacherleaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:uc_teacherleaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\uc_teacherleaverequest.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:uc_teacherleaverequest.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\uc_departmentmanager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:uc_departmentmanager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\studentdashboard.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\studentdashboard.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
       "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:studentdashboard.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\Enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\Enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:Enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\Home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\Home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:Home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\enrollment.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\enrollment.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:enrollment.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\Apply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\Apply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:Apply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\Apply.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\Apply.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C18CA13-FABA-4B44-BC7F-5ED32EB1024F}|SCHOOL MANAGEMENT SYSTEM.csproj|solutionrelative:Apply.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -392,6 +144,250 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\forgot_reset pass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UC_TeacherManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_AdminLeaveRequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UC_AdminLeaveRequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentAssignmentSubmission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UC_StudentAssignmentSubmission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_AdminLeaveRequests.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UC_AdminLeaveRequests.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UC_StudentManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_CourseManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UC_CourseManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_AdminProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UC_AdminProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_AdminProfile.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UC_AdminProfile.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\uc_teachermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:uc_teachermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\uc_teacherleaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:uc_teacherleaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\uc_teachergrademanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:uc_teachergrademanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\uc_teacherprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:uc_teacherprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\uc_teacherattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:uc_teacherattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\uc_teacherassignmentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:uc_teacherassignmentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\uc_studentteacherreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:uc_studentteacherreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\uc_studentresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:uc_studentresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\uc_studentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:uc_studentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\uc_studentpayments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:uc_studentpayments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\uc_studentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:uc_studentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\uc_studentcourseregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:uc_studentcourseregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\uc_studentattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:uc_studentattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\uc_studentassignmentsubmission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:uc_studentassignmentsubmission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\uc_departmentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:uc_departmentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\uc_coursemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:uc_coursemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\uc_adminreviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:uc_adminreviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\uc_adminprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:uc_adminprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\uc_adminpayments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:uc_adminpayments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\uc_adminleaverequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:uc_adminleaverequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_AdminPayments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UC_AdminPayments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_AdminPayments.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UC_AdminPayments.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentCourseRegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UC_StudentCourseRegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentCourseRegistration.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UC_StudentCourseRegistration.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentProfile.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UC_StudentProfile.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UC_StudentProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherProfile.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UC_TeacherProfile.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UC_TeacherProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherGradeManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UC_TeacherGradeManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherAttendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UC_TeacherAttendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherAttendance.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UC_TeacherAttendance.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherGradeManager.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UC_TeacherGradeManager.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentAssignmentSubmission.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UC_StudentAssignmentSubmission.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentAttendance.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UC_StudentAttendance.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentResults.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UC_StudentResults.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentResults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UC_StudentResults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentAttendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UC_StudentAttendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentPayments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UC_StudentPayments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherManager.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UC_TeacherManager.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_AdminReviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UC_AdminReviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherManager.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UC_TeacherManager.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_DepartmentManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UC_DepartmentManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_CourseManager.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UC_CourseManager.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherAssignmentManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UC_TeacherAssignmentManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherAssignmentManager.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UC_TeacherAssignmentManager.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentManager.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UC_StudentManager.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentPayments.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UC_StudentPayments.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentTeacherReview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UC_StudentTeacherReview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentTeacherReview.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UC_StudentTeacherReview.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_AdminReviews.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UC_AdminReviews.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherLeaveRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UC_TeacherLeaveRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherLeaveRequest.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UC_TeacherLeaveRequest.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_DepartmentManager.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UC_DepartmentManager.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -401,7 +397,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -409,136 +405,158 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Login.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\Login.cs",
-              "RelativeDocumentMoniker": "Login.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\Login.cs [Design]",
-              "RelativeToolTip": "..\\..\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\Login.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-17T16:10:56.327Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "StudentDashboard.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\StudentDashboard.cs",
-              "RelativeDocumentMoniker": "StudentDashboard.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\StudentDashboard.cs [Design]",
-              "RelativeToolTip": "StudentDashboard.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T16:11:11.617Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TeacherDashboard.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\TeacherDashboard.cs",
-              "RelativeDocumentMoniker": "TeacherDashboard.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\TeacherDashboard.cs [Design]",
-              "RelativeToolTip": "..\\..\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\TeacherDashboard.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-19T05:31:29.434Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Apply.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\Apply.cs",
-              "RelativeDocumentMoniker": "Apply.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\Apply.cs [Design]",
-              "RelativeToolTip": "Apply.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-17T16:10:04.018Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Home.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\Home.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\Home.cs",
               "RelativeDocumentMoniker": "Home.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\Home.cs [Design]*",
-              "RelativeToolTip": "Home.cs [Design]*",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\Home.cs [Design]",
+              "RelativeToolTip": "Home.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-17T16:09:08.303Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TeacherDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\TeacherDashboard.cs",
+              "RelativeDocumentMoniker": "TeacherDashboard.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\TeacherDashboard.cs [Design]",
+              "RelativeToolTip": "TeacherDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T05:31:29.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\StudentDashboard.cs",
+              "RelativeDocumentMoniker": "StudentDashboard.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\StudentDashboard.cs",
+              "RelativeToolTip": "StudentDashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T14:13:39.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\Login.cs [Design]",
+              "RelativeToolTip": "Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T16:10:56.327Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentDashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\StudentDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "StudentDashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\StudentDashboard.Designer.cs",
+              "RelativeToolTip": "StudentDashboard.Designer.cs",
+              "ViewState": "AgIAAAsBAAAAAAAAAAAYwGwBAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T16:05:49.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\StudentDashboard.cs",
+              "RelativeDocumentMoniker": "StudentDashboard.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\StudentDashboard.cs [Design]",
+              "RelativeToolTip": "StudentDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T16:11:11.617Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Apply.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\Apply.cs",
+              "RelativeDocumentMoniker": "Apply.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\Apply.cs [Design]",
+              "RelativeToolTip": "..\\..\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\Apply.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T16:10:04.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Forgot_Reset_Pass.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\Forgot_Reset_Pass.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\Forgot_Reset_Pass.cs",
               "RelativeDocumentMoniker": "Forgot_Reset_Pass.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\Forgot_Reset_Pass.cs [Design]",
-              "RelativeToolTip": "..\\..\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\Forgot_Reset_Pass.cs [Design]",
+              "RelativeToolTip": "Forgot_Reset_Pass.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-20T16:53:00.025Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Enrollment.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\Enrollment.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\Enrollment.cs",
               "RelativeDocumentMoniker": "Enrollment.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\Enrollment.cs [Design]",
-              "RelativeToolTip": "..\\..\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\Enrollment.cs [Design]",
+              "RelativeToolTip": "Enrollment.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-17T16:10:24.257Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "AdminDashboard.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\AdminDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\AdminDashboard.cs",
               "RelativeDocumentMoniker": "AdminDashboard.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\AdminDashboard.cs [Design]",
-              "RelativeToolTip": "..\\..\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\AdminDashboard.cs [Design]",
+              "RelativeToolTip": "AdminDashboard.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-18T16:09:54.212Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 39,
               "Title": "UC_TeacherManager.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherManager.cs",
               "RelativeDocumentMoniker": "UC_TeacherManager.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherManager.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherManager.cs",
               "RelativeToolTip": "UC_TeacherManager.cs",
-              "ViewState": "AgIAALgAAAAAAAAAAADwv8MAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-19T11:47:34.44Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 40,
               "Title": "UC_AdminLeaveRequests.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_AdminLeaveRequests.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_AdminLeaveRequests.cs",
               "RelativeDocumentMoniker": "UC_AdminLeaveRequests.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_AdminLeaveRequests.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_AdminLeaveRequests.cs",
               "RelativeToolTip": "UC_AdminLeaveRequests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-19T13:11:25.606Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 41,
               "Title": "UC_StudentAssignmentSubmission.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentAssignmentSubmission.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentAssignmentSubmission.cs",
               "RelativeDocumentMoniker": "UC_StudentAssignmentSubmission.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentAssignmentSubmission.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentAssignmentSubmission.cs",
               "RelativeToolTip": "UC_StudentAssignmentSubmission.cs",
-              "ViewState": "AgIAAH4AAAAAAAAAAAAowI8AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-19T18:41:03.469Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 42,
               "Title": "UC_AdminLeaveRequests.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_AdminLeaveRequests.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_AdminLeaveRequests.Designer.cs",
               "RelativeDocumentMoniker": "UC_AdminLeaveRequests.Designer.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_AdminLeaveRequests.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_AdminLeaveRequests.Designer.cs",
               "RelativeToolTip": "UC_AdminLeaveRequests.Designer.cs",
               "ViewState": "AgIAADYAAAAAAAAAAAAAwO0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -546,47 +564,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 43,
               "Title": "UC_StudentManager.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentManager.cs",
               "RelativeDocumentMoniker": "UC_StudentManager.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentManager.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentManager.cs",
               "RelativeToolTip": "UC_StudentManager.cs",
-              "ViewState": "AgIAADMBAAAAAAAAAAAIwFQBAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-19T11:51:18.699Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 44,
               "Title": "UC_CourseManager.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_CourseManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_CourseManager.cs",
               "RelativeDocumentMoniker": "UC_CourseManager.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_CourseManager.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_CourseManager.cs",
               "RelativeToolTip": "UC_CourseManager.cs",
-              "ViewState": "AgIAALkAAAAAAAAAAADwv9kAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-19T18:51:25.276Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 45,
               "Title": "UC_AdminProfile.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_AdminProfile.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_AdminProfile.cs",
               "RelativeDocumentMoniker": "UC_AdminProfile.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_AdminProfile.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_AdminProfile.cs",
               "RelativeToolTip": "UC_AdminProfile.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAgwD0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-20T08:48:59.099Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 46,
               "Title": "UC_AdminProfile.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_AdminProfile.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_AdminProfile.Designer.cs",
               "RelativeDocumentMoniker": "UC_AdminProfile.Designer.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_AdminProfile.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_AdminProfile.Designer.cs",
               "RelativeToolTip": "UC_AdminProfile.Designer.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAIAwwB8AAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -594,9 +609,9 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 47,
               "Title": "UC_TeacherManager.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherManager.cs",
               "RelativeDocumentMoniker": "UC_TeacherManager.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherManager.cs [Design]",
               "RelativeToolTip": "..\\..\\..\\..\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherManager.cs [Design]",
@@ -605,11 +620,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 10,
               "Title": "AdminDashboard.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\AdminDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\AdminDashboard.cs",
               "RelativeDocumentMoniker": "AdminDashboard.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\AdminDashboard.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\AdminDashboard.cs",
               "RelativeToolTip": "AdminDashboard.cs",
               "ViewState": "AgIAAD4AAAAAAAAAAAAvwFQAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -617,11 +632,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 11,
               "Title": "Login.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\Login.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\Login.Designer.cs",
               "RelativeDocumentMoniker": "Login.Designer.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\Login.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\Login.Designer.cs",
               "RelativeToolTip": "Login.Designer.cs",
               "ViewState": "AgIAADYBAAAAAAAAAAAAAEMBAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -629,11 +644,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 12,
               "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\Login.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\Login.cs",
               "RelativeDocumentMoniker": "Login.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\Login.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\Login.cs",
               "RelativeToolTip": "Login.cs",
               "ViewState": "AgIAAJwAAAAAAAAAAAArwL4AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -641,9 +656,9 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 48,
               "Title": "UC_TeacherLeaveRequest.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherLeaveRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherLeaveRequest.cs",
               "RelativeDocumentMoniker": "UC_TeacherLeaveRequest.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherLeaveRequest.cs [Design]",
               "RelativeToolTip": "..\\..\\..\\..\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherLeaveRequest.cs [Design]",
@@ -652,9 +667,9 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 49,
               "Title": "UC_TeacherGradeManager.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherGradeManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherGradeManager.cs",
               "RelativeDocumentMoniker": "UC_TeacherGradeManager.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherGradeManager.cs [Design]",
               "RelativeToolTip": "..\\..\\..\\..\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherGradeManager.cs [Design]",
@@ -663,9 +678,9 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 50,
               "Title": "UC_TeacherProfile.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherProfile.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherProfile.cs",
               "RelativeDocumentMoniker": "UC_TeacherProfile.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherProfile.cs [Design]",
               "RelativeToolTip": "..\\..\\..\\..\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherProfile.cs [Design]",
@@ -674,9 +689,9 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 51,
               "Title": "UC_TeacherAttendance.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherAttendance.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherAttendance.cs",
               "RelativeDocumentMoniker": "UC_TeacherAttendance.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherAttendance.cs [Design]",
               "RelativeToolTip": "..\\..\\..\\..\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherAttendance.cs [Design]",
@@ -685,9 +700,9 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 52,
               "Title": "UC_TeacherAssignmentManager.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherAssignmentManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherAssignmentManager.cs",
               "RelativeDocumentMoniker": "UC_TeacherAssignmentManager.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherAssignmentManager.cs [Design]",
               "RelativeToolTip": "..\\..\\..\\..\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherAssignmentManager.cs [Design]",
@@ -696,9 +711,9 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 53,
               "Title": "UC_StudentTeacherReview.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentTeacherReview.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentTeacherReview.cs",
               "RelativeDocumentMoniker": "UC_StudentTeacherReview.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentTeacherReview.cs [Design]",
               "RelativeToolTip": "..\\..\\..\\..\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentTeacherReview.cs [Design]",
@@ -707,9 +722,9 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 54,
               "Title": "UC_StudentResults.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentResults.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentResults.cs",
               "RelativeDocumentMoniker": "UC_StudentResults.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentResults.cs [Design]",
               "RelativeToolTip": "..\\..\\..\\..\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentResults.cs [Design]",
@@ -718,9 +733,9 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 55,
               "Title": "UC_StudentProfile.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentProfile.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentProfile.cs",
               "RelativeDocumentMoniker": "UC_StudentProfile.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentProfile.cs [Design]",
               "RelativeToolTip": "..\\..\\..\\..\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentProfile.cs [Design]",
@@ -729,9 +744,9 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 56,
               "Title": "UC_StudentPayments.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentPayments.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentPayments.cs",
               "RelativeDocumentMoniker": "UC_StudentPayments.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentPayments.cs [Design]",
               "RelativeToolTip": "..\\..\\..\\..\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentPayments.cs [Design]",
@@ -740,9 +755,9 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 57,
               "Title": "UC_StudentManager.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentManager.cs",
               "RelativeDocumentMoniker": "UC_StudentManager.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentManager.cs [Design]",
               "RelativeToolTip": "..\\..\\..\\..\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentManager.cs [Design]",
@@ -751,9 +766,9 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 58,
               "Title": "UC_StudentCourseRegistration.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentCourseRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentCourseRegistration.cs",
               "RelativeDocumentMoniker": "UC_StudentCourseRegistration.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentCourseRegistration.cs [Design]",
               "RelativeToolTip": "..\\..\\..\\..\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentCourseRegistration.cs [Design]",
@@ -762,9 +777,9 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 59,
               "Title": "UC_StudentAttendance.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentAttendance.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentAttendance.cs",
               "RelativeDocumentMoniker": "UC_StudentAttendance.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentAttendance.cs [Design]",
               "RelativeToolTip": "..\\..\\..\\..\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentAttendance.cs [Design]",
@@ -773,9 +788,9 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 60,
               "Title": "UC_StudentAssignmentSubmission.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentAssignmentSubmission.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentAssignmentSubmission.cs",
               "RelativeDocumentMoniker": "UC_StudentAssignmentSubmission.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentAssignmentSubmission.cs [Design]",
               "RelativeToolTip": "..\\..\\..\\..\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentAssignmentSubmission.cs [Design]",
@@ -784,9 +799,9 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 61,
               "Title": "UC_DepartmentManager.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_DepartmentManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_DepartmentManager.cs",
               "RelativeDocumentMoniker": "UC_DepartmentManager.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_DepartmentManager.cs [Design]",
               "RelativeToolTip": "..\\..\\..\\..\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_DepartmentManager.cs [Design]",
@@ -795,9 +810,9 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 62,
               "Title": "UC_CourseManager.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_CourseManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_CourseManager.cs",
               "RelativeDocumentMoniker": "UC_CourseManager.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_CourseManager.cs [Design]",
               "RelativeToolTip": "..\\..\\..\\..\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_CourseManager.cs [Design]",
@@ -806,9 +821,9 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 63,
               "Title": "UC_AdminReviews.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_AdminReviews.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_AdminReviews.cs",
               "RelativeDocumentMoniker": "UC_AdminReviews.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_AdminReviews.cs [Design]",
               "RelativeToolTip": "..\\..\\..\\..\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_AdminReviews.cs [Design]",
@@ -817,9 +832,9 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 64,
               "Title": "UC_AdminProfile.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_AdminProfile.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_AdminProfile.cs",
               "RelativeDocumentMoniker": "UC_AdminProfile.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_AdminProfile.cs [Design]",
               "RelativeToolTip": "..\\..\\..\\..\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_AdminProfile.cs [Design]",
@@ -828,9 +843,9 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 65,
               "Title": "UC_AdminPayments.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_AdminPayments.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_AdminPayments.cs",
               "RelativeDocumentMoniker": "UC_AdminPayments.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_AdminPayments.cs [Design]",
               "RelativeToolTip": "..\\..\\..\\..\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_AdminPayments.cs [Design]",
@@ -839,9 +854,9 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 66,
               "Title": "UC_AdminLeaveRequests.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_AdminLeaveRequests.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_AdminLeaveRequests.cs",
               "RelativeDocumentMoniker": "UC_AdminLeaveRequests.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_AdminLeaveRequests.cs [Design]",
               "RelativeToolTip": "..\\..\\..\\..\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_AdminLeaveRequests.cs [Design]",
@@ -850,11 +865,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 13,
               "Title": "DataAccess.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\DataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\DataAccess.cs",
               "RelativeDocumentMoniker": "DataAccess.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\DataAccess.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\DataAccess.cs",
               "RelativeToolTip": "DataAccess.cs",
               "ViewState": "AgIAAD8AAAAAAAAAAAAowDMAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -862,22 +877,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "dminProfile.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\dminProfile.cs",
-              "RelativeDocumentMoniker": "dminProfile.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\dminProfile.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\dminProfile.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-20T08:47:45.455Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 67,
               "Title": "UC_AdminPayments.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_AdminPayments.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_AdminPayments.cs",
               "RelativeDocumentMoniker": "UC_AdminPayments.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_AdminPayments.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_AdminPayments.cs",
               "RelativeToolTip": "UC_AdminPayments.cs",
               "ViewState": "AgIAAEYAAAAAAAAAAAAcwG4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -885,11 +889,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 68,
               "Title": "UC_AdminPayments.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_AdminPayments.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_AdminPayments.Designer.cs",
               "RelativeDocumentMoniker": "UC_AdminPayments.Designer.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_AdminPayments.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_AdminPayments.Designer.cs",
               "RelativeToolTip": "UC_AdminPayments.Designer.cs",
               "ViewState": "AgIAAHcAAAAAAAAAAAAmwKEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -897,11 +901,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 69,
               "Title": "UC_StudentCourseRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentCourseRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentCourseRegistration.cs",
               "RelativeDocumentMoniker": "UC_StudentCourseRegistration.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentCourseRegistration.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentCourseRegistration.cs",
               "RelativeToolTip": "UC_StudentCourseRegistration.cs",
               "ViewState": "AgIAAOQAAAAAAAAAAAAcwAwBAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -909,11 +913,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 70,
               "Title": "UC_StudentCourseRegistration.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentCourseRegistration.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentCourseRegistration.Designer.cs",
               "RelativeDocumentMoniker": "UC_StudentCourseRegistration.Designer.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentCourseRegistration.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentCourseRegistration.Designer.cs",
               "RelativeToolTip": "UC_StudentCourseRegistration.Designer.cs",
               "ViewState": "AgIAALAAAAAAAAAAAAAmwMkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -921,11 +925,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -933,35 +937,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "StudentDashboard.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\StudentDashboard.cs",
-              "RelativeDocumentMoniker": "StudentDashboard.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\StudentDashboard.cs",
-              "RelativeToolTip": "StudentDashboard.cs",
-              "ViewState": "AgIAAMsAAAAAAAAAAAAmwPUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T14:13:39.944Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "StudentDashboard.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\StudentDashboard.Designer.cs",
-              "RelativeDocumentMoniker": "StudentDashboard.Designer.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\StudentDashboard.Designer.cs",
-              "RelativeToolTip": "StudentDashboard.Designer.cs",
-              "ViewState": "AgIAAGoBAAAAAAAAAAAmwJQBAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T16:05:49.612Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 15,
               "Title": "TeacherDashboard.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\TeacherDashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\TeacherDashboard.Designer.cs",
               "RelativeDocumentMoniker": "TeacherDashboard.Designer.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\TeacherDashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\TeacherDashboard.Designer.cs",
               "RelativeToolTip": "TeacherDashboard.Designer.cs",
               "ViewState": "AgIAAFQBAAAAAAAAAAAmwH4BAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -969,11 +949,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 16,
               "Title": "TeacherDashboard.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\TeacherDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\TeacherDashboard.cs",
               "RelativeDocumentMoniker": "TeacherDashboard.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\TeacherDashboard.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\TeacherDashboard.cs",
               "RelativeToolTip": "TeacherDashboard.cs",
               "ViewState": "AgIAALcAAAAAAAAAAAAmwOEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -981,11 +961,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 17,
               "Title": "AdminDashboard.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\AdminDashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\AdminDashboard.Designer.cs",
               "RelativeDocumentMoniker": "AdminDashboard.Designer.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\AdminDashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\AdminDashboard.Designer.cs",
               "RelativeToolTip": "AdminDashboard.Designer.cs",
               "ViewState": "AgIAAF4CAAAAAAAAAAAcwIYCAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -993,11 +973,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 71,
               "Title": "UC_StudentProfile.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentProfile.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentProfile.Designer.cs",
               "RelativeDocumentMoniker": "UC_StudentProfile.Designer.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentProfile.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentProfile.Designer.cs",
               "RelativeToolTip": "UC_StudentProfile.Designer.cs",
               "ViewState": "AgIAAOAAAAAAAAAAAAAcwAgBAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1005,11 +985,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 72,
               "Title": "UC_StudentProfile.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentProfile.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentProfile.cs",
               "RelativeDocumentMoniker": "UC_StudentProfile.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentProfile.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentProfile.cs",
               "RelativeToolTip": "UC_StudentProfile.cs",
               "ViewState": "AgIAAE4AAAAAAAAAAAAcwHYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1017,11 +997,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 73,
               "Title": "UC_TeacherProfile.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherProfile.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherProfile.Designer.cs",
               "RelativeDocumentMoniker": "UC_TeacherProfile.Designer.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherProfile.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherProfile.Designer.cs",
               "RelativeToolTip": "UC_TeacherProfile.Designer.cs",
               "ViewState": "AgIAAPEAAAAAAAAAAAAcwBkBAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1029,11 +1009,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 74,
               "Title": "UC_TeacherProfile.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherProfile.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherProfile.cs",
               "RelativeDocumentMoniker": "UC_TeacherProfile.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherProfile.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherProfile.cs",
               "RelativeToolTip": "UC_TeacherProfile.cs",
               "ViewState": "AgIAAE4AAAAAAAAAAAAcwHYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1041,22 +1021,22 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 18,
               "Title": "TeacherDashboard.resx",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\TeacherDashboard.resx",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\TeacherDashboard.resx",
               "RelativeDocumentMoniker": "TeacherDashboard.resx",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\TeacherDashboard.resx",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\TeacherDashboard.resx",
               "RelativeToolTip": "TeacherDashboard.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
               "WhenOpened": "2026-05-20T08:37:34.661Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 75,
               "Title": "UC_TeacherGradeManager.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherGradeManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherGradeManager.cs",
               "RelativeDocumentMoniker": "UC_TeacherGradeManager.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherGradeManager.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherGradeManager.cs",
               "RelativeToolTip": "UC_TeacherGradeManager.cs",
               "ViewState": "AgIAAIQAAAAAAAAAAAAMwI4AAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1064,11 +1044,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 76,
               "Title": "UC_TeacherAttendance.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherAttendance.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherAttendance.cs",
               "RelativeDocumentMoniker": "UC_TeacherAttendance.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherAttendance.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherAttendance.cs",
               "RelativeToolTip": "UC_TeacherAttendance.cs",
               "ViewState": "AgIAAGIAAAAAAAAAAAAMwHsAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1076,11 +1056,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 77,
               "Title": "UC_TeacherAttendance.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherAttendance.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherAttendance.Designer.cs",
               "RelativeDocumentMoniker": "UC_TeacherAttendance.Designer.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherAttendance.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherAttendance.Designer.cs",
               "RelativeToolTip": "UC_TeacherAttendance.Designer.cs",
               "ViewState": "AgIAAO0AAAAAAAAAAAAcwBUBAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1088,11 +1068,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 78,
               "Title": "UC_TeacherGradeManager.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherGradeManager.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherGradeManager.Designer.cs",
               "RelativeDocumentMoniker": "UC_TeacherGradeManager.Designer.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherGradeManager.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherGradeManager.Designer.cs",
               "RelativeToolTip": "UC_TeacherGradeManager.Designer.cs",
               "ViewState": "AgIAANUAAAAAAAAAAAAcwP0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1100,11 +1080,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 79,
               "Title": "UC_StudentAssignmentSubmission.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentAssignmentSubmission.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentAssignmentSubmission.Designer.cs",
               "RelativeDocumentMoniker": "UC_StudentAssignmentSubmission.Designer.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentAssignmentSubmission.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentAssignmentSubmission.Designer.cs",
               "RelativeToolTip": "UC_StudentAssignmentSubmission.Designer.cs",
               "ViewState": "AgIAAFcAAAAAAAAAAAAmwHkAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1112,11 +1092,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 80,
               "Title": "UC_StudentAttendance.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentAttendance.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentAttendance.Designer.cs",
               "RelativeDocumentMoniker": "UC_StudentAttendance.Designer.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentAttendance.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentAttendance.Designer.cs",
               "RelativeToolTip": "UC_StudentAttendance.Designer.cs",
               "ViewState": "AgIAAIwAAAAAAAAAAAAAwKoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1124,11 +1104,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 81,
               "Title": "UC_StudentResults.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentResults.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentResults.Designer.cs",
               "RelativeDocumentMoniker": "UC_StudentResults.Designer.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentResults.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentResults.Designer.cs",
               "RelativeToolTip": "UC_StudentResults.Designer.cs",
               "ViewState": "AgIAAIkAAAAAAAAAAAAAwLsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1136,11 +1116,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 82,
               "Title": "UC_StudentResults.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentResults.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentResults.cs",
               "RelativeDocumentMoniker": "UC_StudentResults.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentResults.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentResults.cs",
               "RelativeToolTip": "UC_StudentResults.cs",
               "ViewState": "AgIAAEQAAAAAAAAAAADwv2EAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1148,11 +1128,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 83,
               "Title": "UC_StudentAttendance.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentAttendance.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentAttendance.cs",
               "RelativeDocumentMoniker": "UC_StudentAttendance.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentAttendance.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentAttendance.cs",
               "RelativeToolTip": "UC_StudentAttendance.cs",
               "ViewState": "AgIAAEYAAAAAAAAAAAAwwGMAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1160,11 +1140,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 84,
               "Title": "UC_StudentPayments.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentPayments.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentPayments.cs",
               "RelativeDocumentMoniker": "UC_StudentPayments.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentPayments.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentPayments.cs",
               "RelativeToolTip": "UC_StudentPayments.cs",
               "ViewState": "AgIAAEcAAAAAAAAAAAAwwGEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1172,22 +1152,22 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 85,
               "Title": "UC_TeacherManager.resx",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherManager.resx",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherManager.resx",
               "RelativeDocumentMoniker": "UC_TeacherManager.resx",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherManager.resx",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherManager.resx",
               "RelativeToolTip": "UC_TeacherManager.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
               "WhenOpened": "2026-05-20T06:13:55.411Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 86,
               "Title": "UC_AdminReviews.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_AdminReviews.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_AdminReviews.cs",
               "RelativeDocumentMoniker": "UC_AdminReviews.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_AdminReviews.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_AdminReviews.cs",
               "RelativeToolTip": "UC_AdminReviews.cs",
               "ViewState": "AgIAAFsAAAAAAAAAAAAqwGwAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1195,11 +1175,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 87,
               "Title": "UC_TeacherManager.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherManager.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherManager.Designer.cs",
               "RelativeDocumentMoniker": "UC_TeacherManager.Designer.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherManager.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherManager.Designer.cs",
               "RelativeToolTip": "UC_TeacherManager.Designer.cs",
               "ViewState": "AgIAABICAAAAAAAAAAAAwEUCAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1207,11 +1187,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 88,
               "Title": "UC_DepartmentManager.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_DepartmentManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_DepartmentManager.cs",
               "RelativeDocumentMoniker": "UC_DepartmentManager.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_DepartmentManager.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_DepartmentManager.cs",
               "RelativeToolTip": "UC_DepartmentManager.cs",
               "ViewState": "AgIAADgAAAAAAAAAAADwv1gAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1219,11 +1199,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 89,
               "Title": "UC_CourseManager.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_CourseManager.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_CourseManager.Designer.cs",
               "RelativeDocumentMoniker": "UC_CourseManager.Designer.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_CourseManager.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_CourseManager.Designer.cs",
               "RelativeToolTip": "UC_CourseManager.Designer.cs",
               "ViewState": "AgIAAKIBAAAAAAAAAAAUwNYBAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1231,11 +1211,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 90,
               "Title": "UC_TeacherAssignmentManager.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherAssignmentManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherAssignmentManager.cs",
               "RelativeDocumentMoniker": "UC_TeacherAssignmentManager.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherAssignmentManager.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherAssignmentManager.cs",
               "RelativeToolTip": "UC_TeacherAssignmentManager.cs",
               "ViewState": "AgIAANAAAAAAAAAAAAAgwPYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1243,11 +1223,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 91,
               "Title": "UC_TeacherAssignmentManager.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherAssignmentManager.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherAssignmentManager.Designer.cs",
               "RelativeDocumentMoniker": "UC_TeacherAssignmentManager.Designer.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherAssignmentManager.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherAssignmentManager.Designer.cs",
               "RelativeToolTip": "UC_TeacherAssignmentManager.Designer.cs",
               "ViewState": "AgIAACkBAAAAAAAAAAAgwE8BAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1255,23 +1235,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 19,
               "Title": "Home.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\Home.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\Home.Designer.cs",
               "RelativeDocumentMoniker": "Home.Designer.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\Home.Designer.cs*",
-              "RelativeToolTip": "Home.Designer.cs*",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\Home.Designer.cs",
+              "RelativeToolTip": "Home.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQCAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-17T17:00:04.426Z"
+              "WhenOpened": "2026-05-17T17:00:04.426Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 92,
               "Title": "UC_StudentManager.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentManager.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentManager.Designer.cs",
               "RelativeDocumentMoniker": "UC_StudentManager.Designer.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentManager.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentManager.Designer.cs",
               "RelativeToolTip": "UC_StudentManager.Designer.cs",
               "ViewState": "AgIAAAsCAAAAAAAAAAAmwCoCAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1279,11 +1260,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 93,
               "Title": "UC_StudentPayments.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentPayments.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentPayments.Designer.cs",
               "RelativeDocumentMoniker": "UC_StudentPayments.Designer.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentPayments.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentPayments.Designer.cs",
               "RelativeToolTip": "UC_StudentPayments.Designer.cs",
               "ViewState": "AgIAAIUAAAAAAAAAAAAAwKIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1291,11 +1272,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 94,
               "Title": "UC_StudentTeacherReview.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentTeacherReview.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentTeacherReview.cs",
               "RelativeDocumentMoniker": "UC_StudentTeacherReview.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentTeacherReview.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentTeacherReview.cs",
               "RelativeToolTip": "UC_StudentTeacherReview.cs",
               "ViewState": "AgIAAI0AAAAAAAAAAAAAwKoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1303,11 +1284,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
+              "DocumentIndex": 95,
               "Title": "UC_StudentTeacherReview.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentTeacherReview.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentTeacherReview.Designer.cs",
               "RelativeDocumentMoniker": "UC_StudentTeacherReview.Designer.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentTeacherReview.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_StudentTeacherReview.Designer.cs",
               "RelativeToolTip": "UC_StudentTeacherReview.Designer.cs",
               "ViewState": "AgIAAOoAAAAAAAAAAAAAwAcBAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1315,11 +1296,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 96,
               "Title": "UC_AdminReviews.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_AdminReviews.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_AdminReviews.Designer.cs",
               "RelativeDocumentMoniker": "UC_AdminReviews.Designer.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_AdminReviews.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_AdminReviews.Designer.cs",
               "RelativeToolTip": "UC_AdminReviews.Designer.cs",
               "ViewState": "AgIAALsAAAAAAAAAAAAAwNgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1327,11 +1308,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 79,
+              "DocumentIndex": 97,
               "Title": "UC_TeacherLeaveRequest.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherLeaveRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherLeaveRequest.cs",
               "RelativeDocumentMoniker": "UC_TeacherLeaveRequest.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherLeaveRequest.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherLeaveRequest.cs",
               "RelativeToolTip": "UC_TeacherLeaveRequest.cs",
               "ViewState": "AgIAAHYAAAAAAAAAAAAAwIsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1339,11 +1320,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 80,
+              "DocumentIndex": 98,
               "Title": "UC_TeacherLeaveRequest.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherLeaveRequest.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherLeaveRequest.Designer.cs",
               "RelativeDocumentMoniker": "UC_TeacherLeaveRequest.Designer.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherLeaveRequest.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_TeacherLeaveRequest.Designer.cs",
               "RelativeToolTip": "UC_TeacherLeaveRequest.Designer.cs",
               "ViewState": "AgIAAJ0AAAAAAAAAAAAAwLIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1351,11 +1332,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 81,
+              "DocumentIndex": 99,
               "Title": "UC_DepartmentManager.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_DepartmentManager.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_DepartmentManager.Designer.cs",
               "RelativeDocumentMoniker": "UC_DepartmentManager.Designer.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\UC_DepartmentManager.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\UC_DepartmentManager.Designer.cs",
               "RelativeToolTip": "UC_DepartmentManager.Designer.cs",
               "ViewState": "AgIAAMQAAAAAAAAAAAAAwNIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1363,22 +1344,22 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 82,
+              "DocumentIndex": 20,
               "Title": "StudentDashboard.resx",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\StudentDashboard.resx",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\StudentDashboard.resx",
               "RelativeDocumentMoniker": "StudentDashboard.resx",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\StudentDashboard.resx",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\StudentDashboard.resx",
               "RelativeToolTip": "StudentDashboard.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
               "WhenOpened": "2026-05-19T11:40:15.75Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 83,
+              "DocumentIndex": 21,
               "Title": "Enrollment.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\Enrollment.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\Enrollment.cs",
               "RelativeDocumentMoniker": "Enrollment.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\Enrollment.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\Enrollment.cs",
               "RelativeToolTip": "Enrollment.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAhwB8AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1386,11 +1367,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 85,
+              "DocumentIndex": 23,
               "Title": "Enrollment.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\Enrollment.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\Enrollment.Designer.cs",
               "RelativeDocumentMoniker": "Enrollment.Designer.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\Enrollment.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\Enrollment.Designer.cs",
               "RelativeToolTip": "Enrollment.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1398,7 +1379,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 99,
+              "DocumentIndex": 37,
               "Title": "Forgot_Reset Pass.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\Forgot_Reset Pass.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\Forgot_Reset Pass.cs",
@@ -1409,23 +1390,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 84,
+              "DocumentIndex": 22,
               "Title": "Home.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\Home.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\Home.cs",
               "RelativeDocumentMoniker": "Home.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\Home.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\Home.cs",
               "RelativeToolTip": "Home.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-17T17:00:09.151Z"
+              "WhenOpened": "2026-05-17T17:00:09.151Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 86,
+              "DocumentIndex": 24,
               "Title": "Apply.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\Apply.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\Apply.cs",
               "RelativeDocumentMoniker": "Apply.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\Apply.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\Apply.cs",
               "RelativeToolTip": "Apply.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1433,11 +1415,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 87,
+              "DocumentIndex": 25,
               "Title": "Apply.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\Apply.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\Apply.Designer.cs",
               "RelativeDocumentMoniker": "Apply.Designer.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0 - C\\SCHOOL MANAGEMENT SYSTEM\\Apply.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Draft\\Project to push in git\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\Apply.Designer.cs",
               "RelativeToolTip": "Apply.Designer.cs",
               "ViewState": "AgIAANUBAAAAAAAAAAAcwOEBAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1445,7 +1427,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 92,
+              "DocumentIndex": 30,
               "Title": "Admin Dashboard.Designer.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\Admin Dashboard.Designer.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\Admin Dashboard.Designer.cs",
@@ -1456,7 +1438,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 91,
+              "DocumentIndex": 29,
               "Title": "Teacher Dashboard.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\Teacher Dashboard.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\Teacher Dashboard.cs",
@@ -1467,7 +1449,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 90,
+              "DocumentIndex": 28,
               "Title": "Teacher Dashboard.Designer.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\Teacher Dashboard.Designer.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\Teacher Dashboard.Designer.cs",
@@ -1478,7 +1460,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 93,
+              "DocumentIndex": 31,
               "Title": "Admin Dashboard.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\Admin Dashboard.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\Admin Dashboard.cs",
@@ -1489,7 +1471,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 94,
+              "DocumentIndex": 32,
               "Title": "Student Dashboard.Designer.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\Student Dashboard.Designer.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\Student Dashboard.Designer.cs",
@@ -1500,7 +1482,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 95,
+              "DocumentIndex": 33,
               "Title": "Student Dashboard.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\Student Dashboard.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\Student Dashboard.cs",
@@ -1511,7 +1493,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 96,
+              "DocumentIndex": 34,
               "Title": "Teacher Dashboard.cs [Design]",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\Teacher Dashboard.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\Teacher Dashboard.cs",
@@ -1522,7 +1504,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 97,
+              "DocumentIndex": 35,
               "Title": "Admin Dashboard.cs [Design]",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\Admin Dashboard.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\Admin Dashboard.cs",
@@ -1533,7 +1515,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 100,
+              "DocumentIndex": 38,
               "Title": "Forgot_Reset Pass.cs [Design]",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\Forgot_Reset Pass.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\Forgot_Reset Pass.cs",
@@ -1544,7 +1526,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 89,
+              "DocumentIndex": 27,
               "Title": "Login.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Z -\\C# Project Final\\C# Project Final\\School Management System\\School Management System\\Login.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Z -\\C# Project Final\\C# Project Final\\School Management System\\School Management System\\Login.cs",
@@ -1556,7 +1538,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 88,
+              "DocumentIndex": 26,
               "Title": "Login.Designer.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Z -\\C# Project Final\\C# Project Final\\School Management System\\School Management System\\Login.Designer.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Z -\\C# Project Final\\C# Project Final\\School Management System\\School Management System\\Login.Designer.cs",
@@ -1568,7 +1550,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 98,
+              "DocumentIndex": 36,
               "Title": "Signup.cs [Design]",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\Signup.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\SCHOOL MANAGAMENT SYSTEM - 1.0\\SCHOOL MANAGEMENT SYSTEM\\Signup.cs",

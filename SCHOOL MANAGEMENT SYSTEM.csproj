@@ -59,12 +59,6 @@
       <DependentUpon>Apply.cs</DependentUpon>
     </Compile>
     <Compile Include="DataAccess.cs" />
-    <Compile Include="dminProfile.cs">
-      <SubType>UserControl</SubType>
-    </Compile>
-    <Compile Include="dminProfile.Designer.cs">
-      <DependentUpon>dminProfile.cs</DependentUpon>
-    </Compile>
     <Compile Include="Enrollment.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -103,124 +97,124 @@
     <Compile Include="TeacherDashboard.Designer.cs">
       <DependentUpon>TeacherDashboard.cs</DependentUpon>
     </Compile>
-    <Compile Include="UC_AdminLeaveRequests.cs">
+    <Compile Include="Admin\UC_AdminLeaveRequests.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="UC_AdminLeaveRequests.Designer.cs">
+    <Compile Include="Admin\UC_AdminLeaveRequests.Designer.cs">
       <DependentUpon>UC_AdminLeaveRequests.cs</DependentUpon>
     </Compile>
-    <Compile Include="UC_AdminPayments.cs">
+    <Compile Include="Admin\UC_AdminPayments.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="UC_AdminPayments.Designer.cs">
+    <Compile Include="Admin\UC_AdminPayments.Designer.cs">
       <DependentUpon>UC_AdminPayments.cs</DependentUpon>
     </Compile>
-    <Compile Include="UC_AdminProfile.cs">
+    <Compile Include="Admin\UC_AdminProfile.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="UC_AdminProfile.Designer.cs">
+    <Compile Include="Admin\UC_AdminProfile.Designer.cs">
       <DependentUpon>UC_AdminProfile.cs</DependentUpon>
     </Compile>
-    <Compile Include="UC_AdminReviews.cs">
+    <Compile Include="Admin\UC_AdminReviews.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="UC_AdminReviews.Designer.cs">
+    <Compile Include="Admin\UC_AdminReviews.Designer.cs">
       <DependentUpon>UC_AdminReviews.cs</DependentUpon>
     </Compile>
-    <Compile Include="UC_CourseManager.cs">
+    <Compile Include="Admin\UC_CourseManager.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="UC_CourseManager.Designer.cs">
+    <Compile Include="Admin\UC_CourseManager.Designer.cs">
       <DependentUpon>UC_CourseManager.cs</DependentUpon>
     </Compile>
-    <Compile Include="UC_DepartmentManager.cs">
+    <Compile Include="Admin\UC_DepartmentManager.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="UC_DepartmentManager.Designer.cs">
+    <Compile Include="Admin\UC_DepartmentManager.Designer.cs">
       <DependentUpon>UC_DepartmentManager.cs</DependentUpon>
     </Compile>
-    <Compile Include="UC_StudentAssignmentSubmission.cs">
+    <Compile Include="Student\UC_StudentAssignmentSubmission.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="UC_StudentAssignmentSubmission.Designer.cs">
+    <Compile Include="Student\UC_StudentAssignmentSubmission.Designer.cs">
       <DependentUpon>UC_StudentAssignmentSubmission.cs</DependentUpon>
     </Compile>
-    <Compile Include="UC_StudentAttendance.cs">
+    <Compile Include="Student\UC_StudentAttendance.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="UC_StudentAttendance.Designer.cs">
+    <Compile Include="Student\UC_StudentAttendance.Designer.cs">
       <DependentUpon>UC_StudentAttendance.cs</DependentUpon>
     </Compile>
-    <Compile Include="UC_StudentCourseRegistration.cs">
+    <Compile Include="Student\UC_StudentCourseRegistration.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="UC_StudentCourseRegistration.Designer.cs">
+    <Compile Include="Student\UC_StudentCourseRegistration.Designer.cs">
       <DependentUpon>UC_StudentCourseRegistration.cs</DependentUpon>
     </Compile>
-    <Compile Include="UC_StudentManager.cs">
+    <Compile Include="Admin\UC_StudentManager.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="UC_StudentManager.Designer.cs">
+    <Compile Include="Admin\UC_StudentManager.Designer.cs">
       <DependentUpon>UC_StudentManager.cs</DependentUpon>
     </Compile>
-    <Compile Include="UC_StudentPayments.cs">
+    <Compile Include="Student\UC_StudentPayments.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="UC_StudentPayments.Designer.cs">
+    <Compile Include="Student\UC_StudentPayments.Designer.cs">
       <DependentUpon>UC_StudentPayments.cs</DependentUpon>
     </Compile>
-    <Compile Include="UC_StudentProfile.cs">
+    <Compile Include="Student\UC_StudentProfile.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="UC_StudentProfile.Designer.cs">
+    <Compile Include="Student\UC_StudentProfile.Designer.cs">
       <DependentUpon>UC_StudentProfile.cs</DependentUpon>
     </Compile>
-    <Compile Include="UC_StudentResults.cs">
+    <Compile Include="Student\UC_StudentResults.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="UC_StudentResults.Designer.cs">
+    <Compile Include="Student\UC_StudentResults.Designer.cs">
       <DependentUpon>UC_StudentResults.cs</DependentUpon>
     </Compile>
-    <Compile Include="UC_StudentTeacherReview.cs">
+    <Compile Include="Student\UC_StudentTeacherReview.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="UC_StudentTeacherReview.Designer.cs">
+    <Compile Include="Student\UC_StudentTeacherReview.Designer.cs">
       <DependentUpon>UC_StudentTeacherReview.cs</DependentUpon>
     </Compile>
-    <Compile Include="UC_TeacherAssignmentManager.cs">
+    <Compile Include="Teacher\UC_TeacherAssignmentManager.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="UC_TeacherAssignmentManager.Designer.cs">
+    <Compile Include="Teacher\UC_TeacherAssignmentManager.Designer.cs">
       <DependentUpon>UC_TeacherAssignmentManager.cs</DependentUpon>
     </Compile>
-    <Compile Include="UC_TeacherAttendance.cs">
+    <Compile Include="Teacher\UC_TeacherAttendance.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="UC_TeacherAttendance.Designer.cs">
+    <Compile Include="Teacher\UC_TeacherAttendance.Designer.cs">
       <DependentUpon>UC_TeacherAttendance.cs</DependentUpon>
     </Compile>
-    <Compile Include="UC_TeacherGradeManager.cs">
+    <Compile Include="Teacher\UC_TeacherGradeManager.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="UC_TeacherGradeManager.Designer.cs">
+    <Compile Include="Teacher\UC_TeacherGradeManager.Designer.cs">
       <DependentUpon>UC_TeacherGradeManager.cs</DependentUpon>
     </Compile>
-    <Compile Include="UC_TeacherLeaveRequest.cs">
+    <Compile Include="Teacher\UC_TeacherLeaveRequest.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="UC_TeacherLeaveRequest.Designer.cs">
+    <Compile Include="Teacher\UC_TeacherLeaveRequest.Designer.cs">
       <DependentUpon>UC_TeacherLeaveRequest.cs</DependentUpon>
     </Compile>
-    <Compile Include="UC_TeacherManager.cs">
+    <Compile Include="Admin\UC_TeacherManager.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="UC_TeacherManager.Designer.cs">
+    <Compile Include="Admin\UC_TeacherManager.Designer.cs">
       <DependentUpon>UC_TeacherManager.cs</DependentUpon>
     </Compile>
-    <Compile Include="UC_TeacherProfile.cs">
+    <Compile Include="Teacher\UC_TeacherProfile.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="UC_TeacherProfile.Designer.cs">
+    <Compile Include="Teacher\UC_TeacherProfile.Designer.cs">
       <DependentUpon>UC_TeacherProfile.cs</DependentUpon>
     </Compile>
     <EmbeddedResource Include="AdminDashboard.resx">
@@ -250,13 +244,13 @@
     <EmbeddedResource Include="TeacherDashboard.resx">
       <DependentUpon>TeacherDashboard.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="UC_StudentAssignmentSubmission.resx">
+    <EmbeddedResource Include="Student\UC_StudentAssignmentSubmission.resx">
       <DependentUpon>UC_StudentAssignmentSubmission.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="UC_StudentManager.resx">
+    <EmbeddedResource Include="Admin\UC_StudentManager.resx">
       <DependentUpon>UC_StudentManager.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="UC_TeacherManager.resx">
+    <EmbeddedResource Include="Admin\UC_TeacherManager.resx">
       <DependentUpon>UC_TeacherManager.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
@@ -272,5 +266,6 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
